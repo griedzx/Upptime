@@ -1,36 +1,34 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+#GitHub username 
+owner: griedzx
 
+#你的GitHub repo name 
+repo: Upptime
+
+
+#下边写的时候一定注意代码的缩进，“-” 都在同一个竖线上，“name”和“url”也都在同一个竖线上，层次不齐的代码高几率直接报错
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Alist
+    url: https://alist.daizixi.space
+  - name: memos
+    url: https://memos.daizixi.space
 
-status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+
+
+# A-如果监控控制台页面使用github的默认域名，则使用如下设置。和下边B设置互斥，请二选一
+#status-website: 
+  #baseUrl: 【/repo name】『/upptime』
+
+# B-如果你的监控控制台页面，打算使用自己所有的域名，则使用如下设置，和上边A设置互斥，请二选一
+status-website: 
+  cname: upptime/daizixi.space
+
+#自定义状态页面的navbar名称与链接
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name:『Upptime』
+  introTitle: 这是使用upptime构建的开源网页状态监控页
+  introMessage: 【网页简介】
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
