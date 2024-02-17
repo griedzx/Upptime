@@ -11,6 +11,12 @@ sites:
     url: https://alist.daizixi.space
   - name: memos
     url: https://memos.daizixi.space
+  - name: nginx proxy manager
+    url: https://npm.daizixi.space
+  - name: upptime
+    url: https://upptime.daizixi.space
+  - name: blog
+    url: https://griedzx.github.io
 
 
 
