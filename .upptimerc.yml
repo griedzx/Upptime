@@ -20,13 +20,13 @@ sites:
 
 # B-如果你的监控控制台页面，打算使用自己所有的域名，则使用如下设置，和上边A设置互斥，请二选一
 status-website: 
-  cname: upptime/daizixi.space
+  cname: upptime.daizixi.space
 
 #自定义状态页面的navbar名称与链接
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name:『Upptime』
+  name: 『Upptime』
   introTitle: 这是使用upptime构建的开源网页状态监控页
-  introMessage: 【网页简介】
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
