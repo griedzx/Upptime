@@ -11,6 +11,8 @@ sites:
     url: https://alist.daizixi.space
   - name: memos
     url: https://memos.daizixi.space
+  - name: vault
+    url: https://vault.daizixi.space
   - name: nginx proxy manager
     url: https://npm.daizixi.space
   - name: upptime
