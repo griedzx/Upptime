@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 844,
-    "timeDay": 1003,
-    "timeWeek": 888,
-    "timeMonth": 860,
-    "timeYear": 844,
+    "time": 842,
+    "timeDay": 705,
+    "timeWeek": 851,
+    "timeMonth": 851,
+    "timeYear": 842,
     "dailyMinutesDown": {
       "2024-03-29": 23
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 853,
-    "timeDay": 962,
-    "timeWeek": 882,
-    "timeMonth": 863,
-    "timeYear": 853,
+    "time": 851,
+    "timeDay": 711,
+    "timeWeek": 874,
+    "timeMonth": 856,
+    "timeYear": 851,
     "dailyMinutesDown": {
       "2024-03-29": 23
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 854,
-    "timeDay": 1010,
-    "timeWeek": 839,
-    "timeMonth": 868,
-    "timeYear": 854,
+    "time": 857,
+    "timeDay": 1052,
+    "timeWeek": 853,
+    "timeMonth": 879,
+    "timeYear": 857,
     "dailyMinutesDown": {
       "2024-03-29": 22
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 802,
-    "timeDay": 1033,
-    "timeWeek": 898,
-    "timeMonth": 811,
-    "timeYear": 802,
+    "time": 806,
+    "timeDay": 1019,
+    "timeWeek": 900,
+    "timeMonth": 818,
+    "timeYear": 806,
     "dailyMinutesDown": {
       "2024-03-29": 22
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 453,
-    "timeDay": 315,
-    "timeWeek": 420,
-    "timeMonth": 433,
-    "timeYear": 453,
+    "time": 450,
+    "timeDay": 283,
+    "timeWeek": 372,
+    "timeMonth": 432,
+    "timeYear": 450,
     "dailyMinutesDown": {}
   },
   {
@@ -109,7 +109,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 54,
-    "timeDay": 34,
+    "timeDay": 36,
     "timeWeek": 32,
     "timeMonth": 51,
     "timeYear": 54,
