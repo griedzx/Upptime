@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/alist.daizixi.space.ico",
     "slug": "alist",
     "status": "down",
-    "uptime": "10.05%",
+    "uptime": "10.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-28": 97,
+      "2025-09-29": 83,
+      "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
@@ -379,8 +380,7 @@
       "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
-      "2024-09-30": 1440,
-      "2024-09-29": 1440
+      "2024-09-30": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/memos.daizixi.space.ico",
     "slug": "memos",
     "status": "down",
-    "uptime": "10.05%",
+    "uptime": "10.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-28": 97,
+      "2025-09-29": 83,
+      "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
@@ -763,8 +764,7 @@
       "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
-      "2024-09-30": 1440,
-      "2024-09-29": 1440
+      "2024-09-30": 1440
     }
   },
   {
@@ -773,7 +773,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/vault.daizixi.space.ico",
     "slug": "vault",
     "status": "down",
-    "uptime": "10.05%",
+    "uptime": "10.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -784,7 +784,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-28": 97,
+      "2025-09-29": 83,
+      "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
@@ -1147,8 +1148,7 @@
       "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
-      "2024-09-30": 1440,
-      "2024-09-29": 1440
+      "2024-09-30": 1440
     }
   },
   {
@@ -1157,7 +1157,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/npm.daizixi.space.ico",
     "slug": "nginx-proxy-manager",
     "status": "down",
-    "uptime": "10.05%",
+    "uptime": "10.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1168,7 +1168,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-28": 97,
+      "2025-09-29": 83,
+      "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
@@ -1531,8 +1532,7 @@
       "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
-      "2024-09-30": 1440,
-      "2024-09-29": 1440
+      "2024-09-30": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/upptime.daizixi.space.ico",
     "slug": "upptime",
     "status": "down",
-    "uptime": "17.76%",
+    "uptime": "17.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 483,
+    "time": 495,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-28": 97,
+      "2025-09-29": 84,
+      "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
@@ -1915,8 +1916,7 @@
       "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
-      "2024-09-30": 1440,
-      "2024-09-29": 1440
+      "2024-09-30": 1440
     }
   },
   {
@@ -1931,8 +1931,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 88,
-    "timeWeek": 112,
+    "timeDay": 146,
+    "timeWeek": 118,
     "timeMonth": 140,
     "timeYear": 130,
     "dailyMinutesDown": {
